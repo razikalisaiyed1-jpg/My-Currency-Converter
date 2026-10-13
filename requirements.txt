@@ -1,0 +1,2 @@
+
+CurrencyConverter==0.18.22
